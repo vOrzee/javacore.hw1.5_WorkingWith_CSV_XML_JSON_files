@@ -2,9 +2,9 @@
 
 Необходимо выполнить и предоставить на проверку следующие задачи:
 
-1. [CSV - JSON парсер](./task1/README.md);
-2. [XML - JSON парсер](./task2/README.md);
-3. [JSON парсер](./task3/README.md) (задание со звездочкой *).
+1. [CSV - JSON парсер](https://github.com/vOrzee/javacore.hw1.5_WorkingWith_CSV_XML_JSON_files/tree/task1.CSV-JSON-parser#%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-1-csv---json-%D0%BF%D0%B0%D1%80%D1%81%D0%B5%D1%80);
+2. [XML - JSON парсер](https://github.com/vOrzee/javacore.hw1.5_WorkingWith_CSV_XML_JSON_files/tree/task2.XML-JSON-parser#%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-2-xml---json-%D0%BF%D0%B0%D1%80%D1%81%D0%B5%D1%80);
+3. ***JSON парсер (задание со звездочкой)***.
 
 # Задача 3: JSON парсер (со звездочкой *)
 
