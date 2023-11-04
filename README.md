@@ -2,9 +2,9 @@
 
 Необходимо выполнить и предоставить на проверку следующие задачи:
 
-1. [CSV - JSON парсер]([https://github.com/vOrzee/javacore.hw1.5_WorkingWith_CSV_XML_JSON_files/tree/task1.CSV-JSON-parser](https://github.com/vOrzee/javacore.hw1.5_WorkingWith_CSV_XML_JSON_files/tree/task1.CSV-JSON-parser#%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-1-csv---json-%D0%BF%D0%B0%D1%80%D1%81%D0%B5%D1%80));
-2. [XML - JSON парсер]([./task2/README.md](https://github.com/vOrzee/javacore.hw1.5_WorkingWith_CSV_XML_JSON_files/tree/task2.XML-JSON-parser#%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-2-xml---json-%D0%BF%D0%B0%D1%80%D1%81%D0%B5%D1%80));
-3. [JSON парсер]([./task3/README.md](https://github.com/vOrzee/javacore.hw1.5_WorkingWith_CSV_XML_JSON_files/tree/task3.JSON-parser#%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-3-json-%D0%BF%D0%B0%D1%80%D1%81%D0%B5%D1%80-%D1%81%D0%BE-%D0%B7%D0%B2%D0%B5%D0%B7%D0%B4%D0%BE%D1%87%D0%BA%D0%BE%D0%B9-)) (задание со звездочкой *).
+1. [CSV - JSON парсер](https://github.com/vOrzee/javacore.hw1.5_WorkingWith_CSV_XML_JSON_files/tree/task1.CSV-JSON-parser#%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-1-csv---json-%D0%BF%D0%B0%D1%80%D1%81%D0%B5%D1%80);
+2. [XML - JSON парсер](https://github.com/vOrzee/javacore.hw1.5_WorkingWith_CSV_XML_JSON_files/tree/task2.XML-JSON-parser#%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-2-xml---json-%D0%BF%D0%B0%D1%80%D1%81%D0%B5%D1%80);
+3. [JSON парсер](https://github.com/vOrzee/javacore.hw1.5_WorkingWith_CSV_XML_JSON_files/tree/task3.JSON-parser#%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-3-json-%D0%BF%D0%B0%D1%80%D1%81%D0%B5%D1%80-%D1%81%D0%BE-%D0%B7%D0%B2%D0%B5%D0%B7%D0%B4%D0%BE%D1%87%D0%BA%D0%BE%D0%B9-) (задание со звездочкой *).
 
 =======
 
