@@ -22,8 +22,8 @@ public class Main {
         String fileName = "data.csv";
         List<Employee> list = parseCSV(columnMapping, fileName);
         String json = listToJson(list);
-        System.out.println(json);
-        writeString(json);
+        String fileNameToJSON = "data.json";
+        writeString(json, fileNameToJSON);
     }
 
     public static List<Employee> parseCSV(String[] columns, String fileName) {
@@ -54,12 +54,13 @@ public class Main {
     private static String listToJson(List<Employee> list) {
         GsonBuilder builder = new GsonBuilder();
         Gson gson = builder.setPrettyPrinting().create();
-        Type listType = new TypeToken<List<Employee>>() {}.getType();
+        Type listType = new TypeToken<List<Employee>>() {
+        }.getType();
         return gson.toJson(list, listType);
     }
 
-    private static void writeString(String json) {
-        try (FileWriter file = new FileWriter("data.json")) {
+    private static void writeString(String json, String fileName) {
+        try (FileWriter file = new FileWriter(fileName)) {
             file.write(json);
             file.flush();
         } catch (IOException e) {
